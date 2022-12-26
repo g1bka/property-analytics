@@ -1,7 +1,7 @@
 ## Property analytics solution 
 
 ### About
-The project provides a solution for the delivery radius changes and purchases analytics.
+The project provides a solution for the property analytics.
 
 ### Repository structure
 - `./config/`
