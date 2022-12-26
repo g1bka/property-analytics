@@ -1,0 +1,8 @@
+.idea/
+.venv
+__pycache__
+config/database.ini
+src_data/google_analytics/ga_sessions*
+src_data/google_sheets/manual_marketing_cost*
+src_data/mysql/properties.csv
+src_data/mysql/property_event_log.csv
